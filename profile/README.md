@@ -68,7 +68,7 @@ Learn more about container optimization at [RapidFort.com][rf-link-additonal-res
 [rf-build-hardened-link]: https://rapidfort.com?utm_source=github&utm_medium=rf_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=build_hardened_image
 
 [rf-banner-community-image]: /contrib/banner_community_images.png
-[rf-banner-community-link]: https://rapidfort.com?utm_source=github&utm_medium=rf_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=banner_community_image
+[rf-banner-community-link]: https://github.com/rapidfort/community-images
 
 [rf-careers-link]: https://www.rapidfort.com/careers?utm_source=github&utm_medium=rf_careers_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=careers_link
 [rf-blog-link]: https://www.rapidfort.com/blog?utm_source=github&utm_medium=rf_blog_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=blog_link

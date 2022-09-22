@@ -39,8 +39,7 @@ RapidFort is excited to launch our open-source Community Images project, securin
 
 ## Additional Resources
 
-
-[rf-link-main-landing-footer-logo]
+[![RapidFort](/contrib/github_logo_footer.png)][rf-link-main-landing-footer-logo]
 
 
 Learn more about container optimization at [RapidFort.com][rf-link-additonal-resource].

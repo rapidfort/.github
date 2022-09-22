@@ -1,6 +1,6 @@
 
 <a href="https://rapidfort.com?utm_source=github&utm_medium=ci_rf_link&utm_campaign=sep_01_sprint&utm_term=ci_main_landing&utm_content=main_landing_logo">
-<img src="https://raw.githubusercontent.com/rapidfort/community-images/main/contrib/github_logo.png" alt="RapidFort" width="200" />
+<img src="/contrib/github_logo.png" alt="RapidFort" width="200" />
 </a>
 
 # RapidFort automatically hardens your containers and removes vulnerabilities
@@ -34,7 +34,7 @@ RapidFort is excited to launch our open-source Community Images project, securin
 ## Need support
 
 <a href="https://join.slack.com/t/rapidfortcommunity/shared_invite/zt-1g3wy28lv-DaeGexTQ5IjfpbmYW7Rm_Q">
-<img src="https://raw.githubusercontent.com/rapidfort/community-images/main/contrib/github_banner.png" alt="RapidFort Community Slack" width="600" />
+<img src="/contrib/github_banner.png" alt="RapidFort Community Slack" width="600" />
 </a>
 
 ## Additional Resources
@@ -62,13 +62,13 @@ Learn more about container optimization at [RapidFort.com][rf-link-additonal-res
 
 [rf-link-additonal-resource]: https://rapidfort.com?utm_source=github&utm_medium=rf_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=additonal_resource
 
-[rf-vulns-ui-image]: https://raw.githubusercontent.com/rapidfort/community-images/main/contrib/vulns_ui.png
+[rf-vulns-ui-image]: /contrib/vulns_ui.png
 [rf-vulns-ui-link]: https://rapidfort.com?utm_source=github&utm_medium=rf_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=vulns_ui_image
 
-[rf-build-hardened-image]: https://raw.githubusercontent.com/rapidfort/community-images/main/contrib/build_hardened.png
+[rf-build-hardened-image]: /contrib/build_hardened.png
 [rf-build-hardened-link]: https://rapidfort.com?utm_source=github&utm_medium=rf_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=build_hardened_image
 
-[rf-banner-community-image]: https://raw.githubusercontent.com/rapidfort/community-images/main/contrib/banner_community_images.png
+[rf-banner-community-image]: /contrib/banner_community_images.png
 [rf-banner-community-link]: https://rapidfort.com?utm_source=github&utm_medium=rf_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=banner_community_image
 
 [rf-careers-link]: https://www.rapidfort.com/careers?utm_source=github&utm_medium=rf_careers_link&utm_campaign=sep_01_sprint&utm_term=main_landing&utm_content=careers_link
